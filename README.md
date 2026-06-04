@@ -1,7 +1,5 @@
 # Hi, Aku Jevon
 
-Saya adalah siswa SMKN 8 Semarang jurusan PPLG yang tertarik pada pengembangan aplikasi, website, UI/UX, dan game development.
-
 ## About Me
 
 - Student at SMKN 8 Semarang
