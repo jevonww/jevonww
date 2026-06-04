@@ -3,7 +3,7 @@
 ## About Me
 
 - Student at SMKN 8 Semarang
-- Learning Flutter, PHP, Supabase, and Unity
+- Learning All
 - Interested in mobile apps, web development, and game development
 - Currently building TrashSmart
 ## Projects
