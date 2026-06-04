@@ -17,12 +17,6 @@ Saat ini saya fokus mempelajari:
 ### 🌱 TrashSmart
 Aplikasi edukasi lingkungan berbasis Flutter yang membantu pengguna belajar tentang pengelolaan sampah melalui artikel edukatif, sistem poin, dan fitur interaktif.
 
-### 🏠 KosKaKi
-Platform manajemen kos yang menghubungkan pemilik kos dan penghuni dalam satu aplikasi modern.
-
-### 🛒 iBuy
-Website e-commerce berbasis PHP dan MySQL dengan fitur keranjang, checkout, dan pembayaran online.
-
 ## 🛠 Tech Stack
 
 ### Mobile Development
