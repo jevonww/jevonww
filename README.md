@@ -47,9 +47,16 @@ Aplikasi edukasi lingkungan berbasis Flutter dengan fitur artikel edukasi, login
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jevonww&show_icons=true&theme=github_dark&cache_seconds=1800)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevonww&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevonww&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jevonww&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jevonww&theme=tokyonight" />
+</p>
 
 ## Connect With Me
 
