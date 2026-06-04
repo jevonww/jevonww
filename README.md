@@ -1,30 +1,43 @@
-## 🛠 Tech Stack
+# Hi, Aku Jevon
 
-### Mobile Development
+Saya adalah siswa SMKN 8 Semarang jurusan PPLG yang tertarik pada pengembangan aplikasi, website, dan game development.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## About Me
 
-### Web Development
+- Student at SMKN 8 Semarang
+- Learning Flutter, PHP, Supabase, and Unity
+- Interested in mobile apps, web development, UI/UX, and game development
+- Currently building projects like TrashSmart
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Projects
 
-### Database & Backend
+### TrashSmart
+Aplikasi edukasi lingkungan berbasis Flutter dengan fitur artikel edukasi, login user, profil, poin, level, dan interaksi konten.
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Skills
 
-### Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,postgres,supabase,js,html,css,tailwind,bootstrap,react,nodejs,unity,cs,git,github,vscode" />
+</p>
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+## GitHub Stats
 
-### Tools
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
+</p>
+
+## Connect With Me
+
+- GitHub: https://github.com/jevonww
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
