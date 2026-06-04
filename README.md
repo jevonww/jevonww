@@ -7,8 +7,7 @@ Saya adalah siswa SMKN 8 Semarang jurusan PPLG yang tertarik pada pengembangan a
 - Student at SMKN 8 Semarang
 - Learning Flutter, PHP, Supabase, and Unity
 - Interested in mobile apps, web development, and game development
-- Currently building TrashSmart, KosKaKi, and iBuy
-
+- Currently building TrashSmart
 ## Projects
 
 ### TrashSmart
