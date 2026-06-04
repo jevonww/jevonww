@@ -53,5 +53,5 @@ GitHub: https://github.com/jevonww
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="420" />
+  <img src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJqNTR3NXdzNmoxODc2NTRxM25jNmNuMGd1a21mYjgycHV3bDR4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3YKEcVfPibKOj0Qxet/giphy.gif)" width="420" />
 </p>
