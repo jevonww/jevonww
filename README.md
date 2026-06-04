@@ -53,7 +53,7 @@ Aplikasi edukasi lingkungan berbasis Flutter dengan fitur artikel edukasi, login
 
 ## Connect With Me
 
-GitHub: https://github.com/USERNAME_KAMU
+GitHub: https://github.com/jevonww
 
 ---
 
