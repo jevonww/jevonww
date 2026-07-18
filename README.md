@@ -1,4 +1,4 @@
-# Hi, Aku Jevon
+# Hi, I'm Jevon
 
 ## About Me
 
