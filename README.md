@@ -51,4 +51,6 @@ GitHub: https://github.com/jevonww
 
 ---
 
-![gif](https://media4.giphy.com/media/3YKEcVfPibKOj0Qxet/giphy.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
